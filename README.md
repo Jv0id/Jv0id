@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Jv0id
+- 👋 Hi, I’m jp0id
 - 📫 How to reach me : telegram: https://t.me/pm_jp_bot
